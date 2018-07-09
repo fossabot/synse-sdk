@@ -47,7 +47,8 @@
 
 [[constraint]]
   name = "github.com/vapor-ware/synse-server-grpc"
-  version = "1.0.0"
+  # TODO: Put back version = "1.0.0"
+  branch = "mhink-sort"
 
 [[constraint]]
   branch = "master"
